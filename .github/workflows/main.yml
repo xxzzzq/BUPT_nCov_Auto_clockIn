@@ -9,7 +9,7 @@ on:
   schedule:
     - cron: '0 1 * * *'
     - cron: '0 17 * * *'
-    - cron: '50 18 * * *'
+    - cron: '25 19 * * *'
   workflow_dispatch:
 jobs:
   build:
