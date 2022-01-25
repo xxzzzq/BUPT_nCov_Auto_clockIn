@@ -30,7 +30,7 @@ env:
 + 添加环境变量的方法
 点击Settings（在Codes那一行）
 找到Secrets
-点击右上角添加键值对
+点击右上角添加键值对时代的
 
 在添加完毕后，点击Actions，进入自动操作的提示界面，开启Workflow
 自动操作的触发条件有二，在`.github/workflows/main.yml`中有说明
